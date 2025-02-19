@@ -1,0 +1,35 @@
+_repo: Outlines-of-Mahayana-Buddhism_75283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suzuki, Daisetz Teitaro
+    aliases:
+    - Suzuki, D. T. (Daisetz Teitaro)
+    - 鈴木大拙貞太郎
+    - Lingmu, Dazhuo
+    birthdate: 1870
+    deathdate: 1966
+    gutenberg_agent_id: '56096'
+    url: http://www.gutenberg.org/2009/agents/56096
+    wikipedia:
+    - https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%A4%A7%E6%8B%99
+    - https://en.wikipedia.org/wiki/D._T._Suzuki
+description: ''
+gutenberg_issued: '2025-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75283'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008733386
+pgterms:marc905: 20250114065115suzuki
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aChicago :$bThe Open Court Publishing Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Outlines of Mahayana Buddhism
+url: http://www.gutenberg.org/ebooks/75283
