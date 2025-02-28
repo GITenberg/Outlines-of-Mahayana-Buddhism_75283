@@ -1,5 +1,8 @@
 _repo: Outlines-of-Mahayana-Buddhism_75283
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75283-h/images/cover.jpg
 creator:
   author:
     agent_name: Suzuki, Daisetz Teitaro
@@ -15,6 +18,8 @@ creator:
     - https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%A4%A7%E6%8B%99
     - https://en.wikipedia.org/wiki/D._T._Suzuki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75283#Outlines-of-Mahayana-Buddhism
 gutenberg_issued: '2025-02-03'
 gutenberg_type: Text
 identifiers:
